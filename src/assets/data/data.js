@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Muhammad Tomi. S.T',
+            name: 'MuhammadTomi, S.T',
             child: 'Putra ke dua',
             father: 'Marzuki',
             mother: 'Ainul Mardiah (Almarhumah)',
@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Fira Kamelia, S.Pd',
+            name: 'FiraKamelia, S.Pd',
             child: 'Putri pertama',
             father: 'Agustiar (Karyawan PT.Arco)',
             mother: 'Yusmidar',
@@ -89,7 +89,7 @@ export const data = {
 
     audio: './src/assets/audio/tm.m4a',
 
-    api: 'https://script.google.com/macros/s/AKfycbwdi6rkIu0AH8Z3rucJO64-5g3plht_-JWFPG_R6dzdQOIxv5ZeLetidA3_HS-fCz1DqA/exec',
+    api: 'https://script.google.com/macros/s/AKfycbzP1pO-F9EqrG0GUqVE36IMDjZXlllWLOZozWO3WKx0bSpL4Qagqz7Bp_T2jMZGb5xypw/exec',
 
     navbar: [
         {
