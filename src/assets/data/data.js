@@ -64,7 +64,7 @@ export const data = {
         },
         {
             id: 4,
-            image: './src/assets/images/galery3.jpg'
+            image: './src/assets/images/galery6.jpg'
         },
         {
             id: 5,
