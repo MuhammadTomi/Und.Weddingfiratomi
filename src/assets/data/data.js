@@ -2,15 +2,15 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'MuhammadTomi ,S.T',
+            name: 'MuhammadTomi S.T',
             child: 'Putra ke dua',
             father: 'Marzuki',
-            mother: 'Ainul Mardiah (Almarhumah)',
+            mother: 'Alm. Ainul Mardiah',
             image: './src/assets/images/profiltomi.png'
         },
         P: {
             id: 2,
-            name: 'FiraKamelia ,S.Pd',
+            name: 'FiraKamelia S.Pd',
             child: 'Putri pertama',
             father: 'Agustiar (Karyawan PT.Arco)',
             mother: 'Yusmidar',
